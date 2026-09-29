@@ -251,7 +251,7 @@ HTML 是在线预览版，点开就是报告页面；Markdown 和 JSON 是源文
 
 ```bash
 # 克隆仓库
-git clone https://github.com/zhangxiaoqiang1991/luopan.git
+git clone https://github.com/l111403717-cloud/luopan.git
 
 # 安装时请保留完整目录结构；根 SKILL.md 会继续加载 modes/ 下的子 Skill
 ```
@@ -287,7 +287,7 @@ git clone https://github.com/zhangxiaoqiang1991/luopan.git
 - "从投资角度研究一下 XX"
 - "我准备面试 XX，帮我看看是否值得去"
 
-行业需求会进入9阶段调研流水线（信源分级→多源视角矩阵→对抗验证→质量自检）。公司需求如果没有说明用途，会先出现“投资为主、求职为主、投资与求职并重”三选一；用户选择后才开始深度研究。完整路由与方法见 [SKILL.md](SKILL.md)，公司研究规则见 [modes/company/SKILL.md](modes/company/SKILL.md)。
+行业需求会进入9阶段调研流水线（信源分级→多源视角矩阵→对抗验证→质量自检）。公司需求若未说明特定用途，默认自适应展开通用商业调研（盈利模式/产业链生态位/竞品对标/核心风险），不卡点追问。完整路由与方法见 [SKILL.md](SKILL.md)，公司研究规则见 [modes/company/SKILL.md](modes/company/SKILL.md)。
 
 **行业研究输出结构：**
 
@@ -310,6 +310,8 @@ git clone https://github.com/zhangxiaoqiang1991/luopan.git
 
 ```text
 共同事实底座 → 公司身份、业务结构、财务与证据边界
+
+通用商业（默认） → 业务定位 → 盈利模式（钱怎么赚） → 产业链话语权 → 对标竞品/参考 → 核心风险与建议
 
 投资为主 → 商业模式 → 护城河 → 管理层 → 财务质量 → 风险与反证 → 好价格与安全边际
 
